@@ -24,7 +24,7 @@ class HomeHeader extends StatelessWidget {
                 style: Theme.of(context).textTheme.caption,
               ),
               Text(
-                "Caesar Rincon",
+                "Alex Redrigson",
                 style: Theme.of(context)
                     .textTheme
                     .subtitle1!
@@ -34,7 +34,7 @@ class HomeHeader extends StatelessWidget {
           ),
           CircleAvatar(
             backgroundColor: Colors.transparent,
-            backgroundImage: AssetImage("assets/images/profile.png"),
+            backgroundImage: AssetImage("assets/avatar.png"),
           )
         ],
       ),
