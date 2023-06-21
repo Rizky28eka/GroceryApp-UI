@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
-// Custom Colors
-final primaryColor = Color(0xFF7AA874);
+const defaultPadding = 20.0;
+const cartBarHeight = 100.0;
+const headerHeight = 85.0;
 
-// Custom Font
-final fontCust = GoogleFonts.notoSerif();
+const bgColor = Color(0xFFF6F5F2);
+const primaryColor = Color(0xFF40A944);
+
+const panelTransition = Duration(milliseconds: 500);
