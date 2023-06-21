@@ -1,6 +1,6 @@
 <center>
 
-## Slicing SnapChat App❤️✈️
+## GrocerySore-UI with Flutter❤️✈️
 
 <h2><i class="fab fa-instagram"></i> Screenshots <i class="fas fa-camera"></i></h2>
 
