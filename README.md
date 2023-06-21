@@ -1,16 +1,20 @@
-# groceystore
+<center>
 
-A new Flutter project.
+## Slicing SnapChat App❤️✈️
 
-## Getting Started
+<h2><i class="fab fa-instagram"></i> Screenshots <i class="fas fa-camera"></i></h2>
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td align="center"><img src="https://i.postimg.cc/t48vDQWw/Screenshot-2023-06-21-at-22-43-49.png" alt="Screenshot 1" width="300"></td>
+    <td align="center"><img src="https://i.postimg.cc/t48vDQWw/Screenshot-2023-06-21-at-22-43-49.png" alt="Screenshot 2" width="300"></td>
+    
+  </tr>
+  
+</table>
 
-A few resources to get you started if this is your first Flutter project:
+[<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/p/Ctwf9mNBdWn/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</center>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
