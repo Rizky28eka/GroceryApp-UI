@@ -24,7 +24,7 @@ class HomeHeader extends StatelessWidget {
                 style: Theme.of(context).textTheme.caption,
               ),
               Text(
-                "Alex Redrigson",
+                "Alexis Comparison",
                 style: Theme.of(context)
                     .textTheme
                     .subtitle1!
